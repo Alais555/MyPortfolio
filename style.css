@@ -38,3 +38,7 @@ h2 {
   background-color: #00BBC9;
   border-color: #00BBC9;
 }
+
+.row {
+  padding-bottom: 50px;
+}
