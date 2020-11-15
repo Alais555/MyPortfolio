@@ -23,6 +23,12 @@ h1 {
   color: rgba(255, 255, 255, 0.815);
 }
 
+h2{
+  color: white;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
 .lead {
   text-align: center;
   color: #d8b721;
@@ -30,4 +36,8 @@ h1 {
 
 .row {
   padding-bottom: 50px;
+}
+
+.team {
+  padding-left: 55px;
 }
