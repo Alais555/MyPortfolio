@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  background-image: linear-gradient(to bottom right, #403b4a, #283048);
+  background-image: linear-gradient(to bottom right, #000000, #434343);
 }
 
 .btn-outline-light {
@@ -15,6 +15,17 @@ body {
 .btn-primary, .btn-primary:hover {
   background-color: #00BBC9;
   border-color: #00BBC9;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Goldman', cursive;
+  color: rgba(255, 255, 255, 0.815);
+}
+
+.lead {
+  text-align: center;
+  color: #d8b721;
 }
 
 .row {
