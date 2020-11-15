@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  background-color: #00BBC9;
+  background-image: linear-gradient(to bottom right, #403b4a, #283048);
 }
 
 .btn-outline-light {
@@ -17,3 +17,6 @@ body {
   border-color: #00BBC9;
 }
 
+.row {
+  padding-bottom: 50px;
+}
